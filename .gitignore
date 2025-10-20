@@ -4,3 +4,4 @@ Package/
 Resources.zip.manifest
 *.suo
 *.user
+/.vs
